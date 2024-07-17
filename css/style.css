@@ -1,0 +1,86 @@
+.para{
+    background-color: pink; 
+    height: 50px;
+    padding-top: 11px;
+    color: black;
+}
+.carouselpara{
+    background-color: pink;
+    color: black;
+    width: 320px;
+    margin-left: 300px;
+    border: 2px solid rgb(235, 11, 48);
+}
+.logo{
+    height: 50px;
+    width: 80px;
+}
+#navbarhover:hover{
+    background-color: orangered;
+}
+.image{
+    height: 400px;
+    width: 450px;
+}
+.card-img-top{
+    height: 200px;
+}
+.healthy{
+    height: 100px;
+    width: 150px;
+}
+
+.healthylogo{
+    margin-left: 250px;
+}
+h2{
+    text-align: center;
+}
+.healthytable{
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.vegimage{
+    height: 250px;
+}
+h1 , h4{
+    text-align: center;
+}
+.number{
+   margin-left: 620px;
+}
+.video{
+    height: 600px;
+    width: 600px;
+    margin-left: 350px;
+}
+.aboutpara::first-letter{
+    color: orangered;
+}
+.letter{
+    font-size: 25px;
+}
+.servicess{
+    font-size: 50px;
+    color: orangered;
+}
+h3::first-line{
+    color: orangered;
+}
+.table1{
+    margin-left: 500px;
+}
+tr td{
+    color: white;
+}
+.formpara{
+    color: white;
+    margin-left: 20px;
+}
+.text1{
+    color: white;
+}
+button{
+    margin-left: 150px;
+}
